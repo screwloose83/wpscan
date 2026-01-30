@@ -213,47 +213,16 @@
 /uname\ \-a/
 /\/etc\/shadow/
 /\/etc\/passwd/
-/\\x47\\x4c\\x4f\\x42\\x41LS/
 /\$\{\$\{/
 /PHPJiaMi/
 /DisablePHP=/
 /moban\.html/
-/a,b,c,d,e,f,g/
 /@x0powo/
 /@preg_replace/
-/1@1\.com/
 /META http-equiv="refresh" content="0;/
-/="create_";global/
 /Net@ddress Mail/
-/__VIEWSTATEENCRYPTED/
 /createFilesForInputOutput/
-/R0lGODlhEwAQALMAAAAAAP\/\/\/5ycAM7OY\/\/\/nP\/\/zv\/OnPf39\/\/\/\/wAAAAAA/
-/ayu pr1 pr2 pr3 pr4 pr5 pr6/
-/f0VMRgEBAQA/
-/0d0a0d0a676c6f62616c20246d795f736d7/
-/etalfnizg/
-/JHZpc2l0Y291bnQgPSAkSFRUUF9DT09LSUVf/
-/R2aXNpdGNvdW50ID0gJEhUVFBfQ09PS0lFX/
-/KdmlzaXRjb3VudCA9ICRIVFRQX0NPT0tJRV/
-/HTTP flood complete after/
-/exploitcookie/
-/az88pix00q98/
-/Q3JlZGl0IDogVW5kZXJncm91bmQgRGV2aWwgJm5ic3A7ICB8DQo8YSBocmVmP/
-/463839610c000b00800100ffffffffffff21f90401000001002c000/
-/AAAAAAAAMAAwABAAAAeAUAADQAAADsCQAAAAAAADQAIAADACgAFwAUAAEA/
-/HJ3HjutckoRfpXf9A1zQO2AwDRrRey9uGvTeez79qAao1a0rgudkZkR8Ra/
-/Ly83MTg3OWQyMTJkYzhjYmY0ZDRmZDA0NGEzZDE3Zjk3ZmI2N/
-/DJ7VIU7RICXr6sEEV2cBtHDSOe9nVdpEGhEmvRVRNURfw1wQ/
-/LS0gRHVtcDNkIGJ5IFBpcnVsaW4uUEhQIFdlYnNoM2xsIHYxLjAgYzBkZWQgYnkgcjBkcjEgOkw\\=/
-/5jb20iKW9yIHN0cmlzdHIoJHJlZmVyZXIsImFwb3J0Iikgb3Igc3RyaXN0cigkcmVmZXJlciwibmlnbWEiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJ3ZWJhbHRhIikgb3Igc3RyaXN0cigk/
-/X1NFU1NJT05bJ3R4dGF1dGhpbiddID0gdHJ1ZTsNCiAgICBpZiAoJF9QT1NUWydybSddKSB7DQogICAgICBzZXRjb29raWUoJ3R4dGF1dGhfJy4kcm1ncm91cCwgbW/
-/R0lGODlhFAAUAKIAAAAAAP\/\/\/93d3cDAwIaGhgQEBP\/\/\/wAAACH5BAEAAAYALAAAAAAUABQAA/
-/m91dCwgJGVvdXQpOw0Kc2VsZWN0KCRyb3V0ID0gJHJpbiwgdW5kZWYsICRlb3V0ID0gJHJpbiwgMTIwKTsNCmlmICghJHJvdXQgICYmICAhJGVvdXQ/
-/CB2aTZpIDEwMjQtDQojLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KI3JlcXVp/
-/BDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL\/wAARCAAQABADASIAAhEBA/
-/REREFER_PTTH/
 /Joomla_brute_Force/
-/\/usr\/sbin\/httpd/
 /sshkeys/
 /eggdrop/
 /rwxrwxrwx/
@@ -261,74 +230,142 @@
 /putbot \$bot/
 /bind join \- \*/
 /privmsg \$chan/
-/\\u003c\\u0069\\u006d\\u0067\\u0020\\u0073\\u0072\\u0063\\u003d\\u0022\\u0068\\u0074\\u0074\\u0070\\u003a\\u002f\\u002f/
-/\\x31\\xdb\\xf7\\xe3\\x53\\x43\\x53\\x6a\\x02\\x89\\xe1\\xb0\\x66\\xcd/
 /find\ \/ \\\-type\ f \\\-name\ \.htpasswd/
 /find\ \/ \\\-type\ f \\\-perm \\\-02000 \\\-ls/
 /find\ \/ \\\-type\ f \\\-perm \\\-04000 \\\-ls/
-/if\(''\==\(\$df\=@ini_get\('disable_functions'/
-/ncftpput \-u/
-/wsoEx\(/ 
-/WSOsetcookie\(/ 
-/\\x47\\x4c\\x4f\\x42\\x41\\x4c\\x53/
-/'OY<\-\-X17N\-\.OB8X'\^',\+YLY=nQ;CM;\+W6'/
-/Mister Spy/
-/Souheyl Bypass Shell/
-/Welcome To Our Shell/
-/Devloped By El Moujahidin/
-/\$f1\ =\ "\.ht";\ \$f2\ =\ "acc";\ \$f3\ =\ "ess";/
-/\.php\.suspected/
-/\\x6A\\x6F\\x69\\x6E/
-/\\x72\\x65\\x76\\x65\\x72\\x73\\x65/
-/\\x73\\x70\\x6C\\x69\\x74/
-/\\x3E\\x74\\x70\\x69\\x72\\x63\\x73\\x2F\\x3C/
-/\/\*;\*\// 
 /php_uname\(\)/
 /str_split\(rawurldecode\(str_rot13\(/
 /substr\(md5\(time\(\)\),\ 0,\ 8\)\ \.\ "\.php"/
 /'a:1:\{s:13:\\\"administrator\\\";b:1;\}'/
-/0byt3m1n1/
 /ZeroByte/
-/'str_'\ \.\.'rot13'/
-/'st'\ \.\.'rrev'/
-/100,\ 111,\ 99,\ 117,\ 109,\ 101,\ 110,\ 116,\ 46,\ 99,\ 114,\ 101,\ 97,\ 116,\ 101,\ 69,\ 108,\ 101,\ 109,\ 101,\ 110,\ 116,\ 40,\ 39,\ 115,\ 99,\ 114,\ 105,\ 112,\ 116,\ 39,\ 41,\ 59/
-/83,\ 116,\ 114,\ 105,\ 110,\ 103,\ 46,\ 102,\ 114,\ 111,\ 109,\ 67,\ 104,\ 97,\ 114,\ 67,\ 111,\ 100,\ 101,\ 40/
-/"http:\/\/\$xxx/
-/\?useragent=\$botbotbot/
-/cGhwOi8vaW5wdXQ=/
-/<font\ color="red">Upload Gagal\.\.<\/font><br\ \/>/
-/explode\('\?>',\$shell/
-/0\.33333333333333\+0\.33333333333333\+0\.33333333333333/
-/0\.66666666666667\+0\.66666666666667\+0\.66666666666667/
-/1\.3333333333333\+1\.3333333333333\+1\.3333333333333/
-/class\ _t\{private\ static\$_/
-/'LQ'\.\'=='/
-/Array\("1207",\ "3gso",\ "4thp",\ "501i",\ "502i",\ "503i",\ "504i",\ "505i",\ "506i",/
-/eval\(rawurldecode\(/
-/eval\(htmlspecialchars_decode\(/
-/'gz'\.\'unc'\.\'ompress'/
-/'create'\.\'_'\.\'function'/
-/'gzinf',\ 'la',\ 'te'/
-/'e_f',\ 'cti',\ 'un',\ 'on',\ 'cr',\ 'eat'/
-/'base',\ '64_dec',\ 'ode'/
-/'cook',\ 'set',\ 'ie'/
-/'repl',\ 'str_',\ 'ace'/
-/"base"."64_"/
-/'base'.'64_'/
-/"t"."m"."p"."_"."n"."a"."m"."e"/
-/"f"."i"."l"."e"."_"."p"."u"."t"/
-/"f"."i"."l"."e"."_"."g"."e"."t'/
-/'ode',\ 'e64_',\ 'bas',\ 'dec'/
-/'unct',\ 'ion',\ 'te_f',\ 'crea'/
-/'te',\ 'g',\ 'nf',\ 'l',\ 'a',\ 'zi'/
-/'tion',\ 'e_func',\ 'creat'/
-/'64_d',\ 'se',\ 'eco',\ 'de',\ 'ba'/
-/'co',\ 'ki',\ 'e',\ 'o',\ 'set'/
-/'str',\ '_rep',\ 'lace'/
-/extract\(\$_REQUEST\)\ \&\&\ \@\$/ 
-/extract\(\$_REQUEST\)\&\&\@\$/ 
-/xtract\(\$_REQUEST\)\&\&\@\$/ 
-/gzuncompress\(strrev\(substr\(/ 
-/<\?php error_reporting\(0\);/ 
-/<\?php if \(file_exists\(dirname\(__FILE__\) \. '\/class\.theme-modules\.php'\)\) include_once\(dirname\(__FILE__\) \. '\/class\.theme-modules\.php'\); \?>/
-/<\?php if \(file_exists\(dirname\(__FILE__\) \. '\/class\.plugin-modules\.php'\)\) include_once\(dirname\(__FILE__\) \. '\/class\.plugin-modules\.php'\); \?>/
+/0byt3m1n1/
+/wp_custom_range/
+/wp_custom_filters/
+/typeof\s+yqeq\s*===\s*["']undefined["']/
+/var\s+yqeq\s*=\s*!!\[\]/
+/HttpClient\s*=\s*function\s*\(\)/
+/new\s+XMLHttpRequest\s*\(/
+/token\s*=\s*function\s*\(\)\s*\{\s*return\s+rand\(\)\s*\+\s*rand\(\)\s*;/
+/rand\s*=\s*function\s*\(\)\s*\{\s*return\s+Math\./
+/a0A\(/ 
+/a0i\(\)/
+# --- WordpressApieSystem backdoor family (jquerysv.com) ---
+
+/\bclass\s+WordpressApieSystem\b/i
+/\bWordpressApieSystem::init\s*\(/i
+/\bWPSYSTEMMANAGEMENT\b/i
+
+# C2 + endpoints (hex + plain)
+/\bjquerysv\.com\b/i
+/hex2bin\s*\(\s*['"]68747470733a2f2f6a717565727973762e636f6d2f['"]\s*\)/i
+/https?:\/\/jquerysv\.com\//i
+/\bchecksender\/\b/i
+/\bpostclient\b/i
+/\bclientfiles\/files\/wplogin\b/i
+/\bclientfiles\/files\/linkpanel\b/i
+/\bclientfiles\/files\/rsw\b/i
+/\bclientfiles\/files\/adminer\b/i
+/\btanitimlink\b/i
+
+# Remote command parameters / action router
+/\bsystem_action_token\b/i
+/\bsystem_action_application\b/i
+/\bsystem_action_params\b/i
+/\bcontrolAction\s*\(\s*\$action\s*,\s*\$params\s*\)/i
+/\ballowedActions\b\s*=\s*\[/i
+/\bpermission\b\s*=\s*\[/i
+
+# Token / auth gates
+/md5\s*\(\s*sha1\s*\(\s*\$this->token\s*\)\s*\)\s*===\s*['"]71365409ace698cf4fbb79576e9d0b89['"]/i
+/\bauthorization\b/i
+/\bchecksender\b/i
+/\bHTTP_CF_CONNECTING_IP\b/i
+
+# WordPress HTTP calls used for C2
+/\bwp_remote_get\s*\(/i
+/\bwp_remote_post\s*\(/i
+/\bwp_remote_retrieve_body\s*\(/i
+/\bwp_remote_retrieve_response_code\s*\(/i
+
+# Data exfil fields often bundled
+/\bDB_HOST\b/i
+/\bDB_USER\b/i
+/\bDB_PASSWORD\b/i
+/\bDB_NAME\b/i
+/"client"\s*=>\s*\$this->check\s*\(/i
+/"users"\s*=>\s*\$this->wp_users_list\s*\(/i
+
+# Spreader / dropper / persistence
+/\bspread\s*\(\s*\$directory\s*\)/i
+/\bcopy\s*\(\s*\$directory\s*,\s*\$clientURL\s*\)/i
+/\blistFolderFiles\s*\(/i
+/\barray_keys\s*\(\s*\$this->listFolderFiles\s*\(/i
+/\bwrite_append\s*\(/i
+
+# Infection markers searched before append (strings used as â€œalready infectedâ€ checks)
+/\baction_login_init_xxxx\b/i
+/\bwordpres_themes_plugin_update\b/i
+/\bwordpres_rsw_web_update\b/i
+
+# Link spam / DB table
+/\bwpdb->prefix\s*\.\s*['"]linktablo['"]/i
+/\bCREATE\s+TABLE\s+.*linktablo\b/i
+/\bDROP\s+TABLE\s+IF\s+EXISTS\s+.*linktablo\b/i
+/\blinktablokur\b/i
+/\blinktablosil\b/i
+/\blinkekle\b/i
+/\blinktemizle\b/i
+/\blink_bas\b/i
+/\bkontrol_et\b/i
+
+# Suspicious drop locations mentioned by the malware (string/path matches)
+# (These can be plain contains checks if your scanner supports it)
+/wp-admin\/user\/users\.php/i
+/wp-admin\/network\/networks\.php/i
+/wp-content\/languages\/languages\.php/i
+/wp-content\/upgrade\/upgrades\.php/i
+/cgi-bin\/cgibin\.php/i
+/\bsw\.js\b/i
+
+# â€œbootstrapâ€ wp-load walker (common in droppers)
+/\bwp-load\.php\b/i
+/\binclude_once\s*\(\s*\$directory\s*\.\s*DIRECTORY_SEPARATOR\s*\.\s*['"]wp-load\.php['"]\s*\)/i
+/\badd_filter\s*\(\s*['"]https_ssl_verify['"]\s*,\s*['"]__return_false['"]\s*\)/i
+
+# Risky ops (often used in webshells/backdoors)
+/\bchmod\s*\(/i
+/\bunlink\s*\(/i
+/\bfile_put_contents\s*\(/i
+/\bfopen\s*\(/i
+/\bfwrite\s*\(/i
+/\btouch\s*\(/i
+
+# Admin session hijack / forced login
+/\bwp_set_auth_cookie\s*\(/i
+/\bwp_set_current_user\s*\(/i
+/\bwp_clear_auth_cookie\s*\(/i
+/\bwp_safe_redirect\s*\(/i
+
+# Hidden JSON cache file in uploads
+/\bgoogle\.json\b/i
+/\bbin2hex\s*\(\s*wp_remote_retrieve_body\s*\(/i
+/\bhex2bin\s*\(\s*\$this->read\s*\(\s*\$this->json\s*\(\s*\)\s*\)\s*\)\s*/i
+
+
+# HTTP header based eval backdoors (classic RCE webshells)
+/@eval\s*\(\s*\$_SERVER\s*\[\s*['"]HTTP_[A-Z0-9_]+['"]\s*\]\s*\)\s*;?/i
+/\beval\s*\(\s*\$_SERVER\s*\[\s*['"]HTTP_[A-Z0-9_]+['"]\s*\]\s*\)/i
+
+# Obfuscated header-based execution
+/\$_SERVER\s*\[\s*['"]HTTP_[A-Z0-9_]+['"]\s*\]\s*;/i
+/@?\s*assert\s*\(\s*\$_SERVER\s*\[\s*['"]HTTP_[A-Z0-9_]+['"]\s*\]\s*\)/i
+/@?\s*system\s*\(\s*\$_SERVER\s*\[\s*['"]HTTP_[A-Z0-9_]+['"]\s*\]\s*\)/i
+/@?\s*passthru\s*\(\s*\$_SERVER\s*\[\s*['"]HTTP_[A-Z0-9_]+['"]\s*\]\s*\)/i
+
+# Generic eval execution (high confidence)
+/@eval\s*\(/i
+/\beval\s*\(\s*base64_decode\s*\(/i
+/\beval\s*\(\s*gzinflate\s*\(/i
+/\beval\s*\(\s*str_rot13\s*\(/i
+
+
